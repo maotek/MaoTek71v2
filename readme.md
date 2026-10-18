@@ -23,6 +23,7 @@ To flash, enter the STM32 DFU bootloader or use the boot key on layer 1:
 
 ```sh
 qmk flash -kb maotek71v2 -km default
+qmk flash -kb maotek71v2 -km via
 ```
 
 Designed and maintained by [MaoTek](https://github.com/maotek).

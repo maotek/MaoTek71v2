@@ -3,6 +3,5 @@
 
 #pragma once
 
-#define ENCODERS_PAD_A { B8 }
-#define ENCODERS_PAD_B { B9 }
-
+#define ENCODERS_PAD_A {B8}
+#define ENCODERS_PAD_B {B9}
