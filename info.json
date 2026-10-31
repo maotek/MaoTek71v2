@@ -40,7 +40,7 @@
         "driver": "bitbang"
         },
     "rgblight": {
-    "led_count": 34,
+    "led_count": 30,
     "animations": {
         "breathing": true,
         "rainbow_mood": true,
